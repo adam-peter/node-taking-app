@@ -6,6 +6,35 @@
       "tags": [
         "smiley"
       ]
+    },
+    {
+      "id": 1695169245566,
+      "content": "finish node server course",
+      "tags": [
+        "job"
+      ]
+    },
+    {
+      "id": 1695169257423,
+      "content": "learn graphql",
+      "tags": [
+        "job"
+      ]
+    },
+    {
+      "id": 1695169296325,
+      "content": "learn strapi cms",
+      "tags": [
+        "job"
+      ]
+    },
+    {
+      "id": 1695169348158,
+      "content": "wooo",
+      "tags": [
+        "life",
+        " job"
+      ]
     }
   ]
 }
